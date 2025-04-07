@@ -38,6 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2312866781
+    locked: 0
+  - name: BackPlane
+    uniqueID: 4020251035
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: FirstPlane
+    uniqueID: 785783797
     locked: 0

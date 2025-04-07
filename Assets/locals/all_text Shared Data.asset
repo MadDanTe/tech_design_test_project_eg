@@ -19,6 +19,18 @@ MonoBehaviour:
     m_Key: start
     m_Metadata:
       m_Items: []
+  - m_Id: 1399463451615232
+    m_Key: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399601783955456
+    m_Key: locale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399669412913152
+    m_Key: exit
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

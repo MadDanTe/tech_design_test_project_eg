@@ -22,6 +22,18 @@ MonoBehaviour:
     m_Localized: Start!
     m_Metadata:
       m_Items: []
+  - m_Id: 1399463451615232
+    m_Localized: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399601783955456
+    m_Localized: en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399669412913152
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
