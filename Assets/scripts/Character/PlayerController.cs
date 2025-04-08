@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
 
     private PlayerVisual playerVisual;
     private Rigidbody2D rigidbody;
+    private SoundController soundController;
     private bool isJump = false;
 
     private enum State
@@ -23,6 +24,7 @@ public class PlayerController : MonoBehaviour
     {
         playerVisual = GetComponent<PlayerVisual>();
         rigidbody = GetComponent<Rigidbody2D>();
+        soundController = GetComponent<SoundController>(); 
     }
 
     // Update is called once per frame
@@ -40,6 +42,15 @@ public class PlayerController : MonoBehaviour
         else
         {
             playerVisual.setStatus(false, (int)State.Walk);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space) && !isJump)
+        {
+
+            soundController.OnMouseDown();
+            playerVisual.setTrigger((int)State.JumpStart);
+            rigidbody.AddForce(Vector2.up * hightJump);
+            isJump = true;
         }
     }
 
