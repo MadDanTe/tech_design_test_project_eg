@@ -94,7 +94,7 @@ ScriptedImporter:
     spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 13"
+  - name: layer14
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -366,7 +366,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 45, y: 160}
     spritePosition: {x: 71, y: 108}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 12"
+  - name: layer13
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -539,7 +539,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 53, y: 129}
     spritePosition: {x: 48, y: 101}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 11"
+  - name: layer12
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -910,7 +910,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
     spritePosition: {x: 49, y: 88}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 10"
+  - name: layer11
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -1138,7 +1138,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 45, y: 211}
     spritePosition: {x: 23, y: 98}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 9"
+  - name: layer10
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -1333,7 +1333,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 82, y: 107}
     spritePosition: {x: 9, y: 95}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 8"
+  - name: layer9
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -1572,7 +1572,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 82, y: 81}
     spritePosition: {x: 0, y: 84}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 7"
+  - name: layer8
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -1855,7 +1855,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 83}
     spritePosition: {x: 21, y: 73}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 6"
+  - name: layer7
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -2105,7 +2105,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 160}
     spritePosition: {x: 34, y: 77}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 5"
+  - name: layer6
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -2366,7 +2366,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 195}
     spritePosition: {x: 32, y: 55}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 4"
+  - name: layer5
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -2627,7 +2627,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 39, y: 83}
     spritePosition: {x: 10, y: 39}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 3"
+  - name: layer4
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -2910,7 +2910,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 129}
     spritePosition: {x: 44, y: 56}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 2"
+  - name: layer3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -3215,7 +3215,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 82, y: 4}
     spritePosition: {x: 32, y: 35}
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F"
+  - name: layer2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -3454,7 +3454,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 82, y: 51}
     spritePosition: {x: 30, y: 21}
-  - name: "\u0421\u043B\u043E\u0439 2"
+  - name: layer1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -4080,8 +4080,8 @@ ScriptedImporter:
   resliceFromLayer: 0
   mosaicPSDLayers: []
   rigPSDLayers:
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 13"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 13"
+  - name: layer14
+    spriteName: layer14
     isGroup: 0
     parentIndex: -1
     spriteID: f1ff451eff5927149a6df0688dcb3fd3
@@ -4090,8 +4090,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 12"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 12"
+  - name: layer13
+    spriteName: layer13
     isGroup: 0
     parentIndex: -1
     spriteID: eda2401c45e20ad40ad6111c7db9afb1
@@ -4100,8 +4100,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 11"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 11"
+  - name: layer12
+    spriteName: layer12
     isGroup: 0
     parentIndex: -1
     spriteID: 965381decfb5a8d40a40fb69584ab5f9
@@ -4110,8 +4110,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 10"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 10"
+  - name: layer11
+    spriteName: layer11
     isGroup: 0
     parentIndex: -1
     spriteID: 16e2f21d1be93444483c99b496022832
@@ -4120,8 +4120,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 9"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 9"
+  - name: layer10
+    spriteName: layer10
     isGroup: 0
     parentIndex: -1
     spriteID: 4d70f4982c04874498cc3f82b195acc0
@@ -4130,8 +4130,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 8"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 8"
+  - name: layer9
+    spriteName: layer9
     isGroup: 0
     parentIndex: -1
     spriteID: 6f5257c56417f4e43b0052466b66b97e
@@ -4140,8 +4140,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 7"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 7"
+  - name: layer8
+    spriteName: layer8
     isGroup: 0
     parentIndex: -1
     spriteID: e73b275519a969941a3aa0e54288f253
@@ -4150,8 +4150,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 6"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 6"
+  - name: layer7
+    spriteName: layer7
     isGroup: 0
     parentIndex: -1
     spriteID: e96845c9098ca7f4385f47d2e7a908e4
@@ -4160,8 +4160,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 5"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 5"
+  - name: layer6
+    spriteName: layer6
     isGroup: 0
     parentIndex: -1
     spriteID: 24501066786cf604aa8524084a29a4cb
@@ -4170,8 +4170,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 4"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 4"
+  - name: layer5
+    spriteName: layer5
     isGroup: 0
     parentIndex: -1
     spriteID: 8641925200ce0e14fa83b7bf3e1949ac
@@ -4180,8 +4180,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 3"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 3"
+  - name: layer4
+    spriteName: layer4
     isGroup: 0
     parentIndex: -1
     spriteID: b2dd6706ed8b6904889b012a78f2693a
@@ -4190,8 +4190,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 2"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F 2"
+  - name: layer3
+    spriteName: layer3
     isGroup: 0
     parentIndex: -1
     spriteID: 83e62ae2be23dc541a7c8bb521175c88
@@ -4200,8 +4200,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F"
-    spriteName: "\u0421\u043B\u043E\u0439 2 \u043A\u043E\u043F\u0438\u044F"
+  - name: layer2
+    spriteName: layer2
     isGroup: 0
     parentIndex: -1
     spriteID: 2f51fef7848947c4e939cf0fa2bfcb42
@@ -4210,8 +4210,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: "\u0421\u043B\u043E\u0439 2"
-    spriteName: "\u0421\u043B\u043E\u0439 2"
+  - name: layer1
+    spriteName: layer1
     isGroup: 0
     parentIndex: -1
     spriteID: 65ed0b541d4b86940a508a4882c11b00
